@@ -1,2 +1,2 @@
 # basic-clock
-A basic clock to know the hour in Span and Uruguay
+A basic clock to know the hour in Spain and Uruguay

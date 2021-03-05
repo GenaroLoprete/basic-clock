@@ -1,0 +1,24 @@
+{
+  "name": "basic-clock",
+  "version": "1.0.0",
+  "description": "A basic clock to know the hour in Spain and Uruguay",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GenaroLoprete/basic-clock.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GenaroLoprete/basic-clock/issues"
+  },
+  "homepage": "https://github.com/GenaroLoprete/basic-clock#readme",
+  "dependencies": {
+    "cron": "^1.8.2",
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.33"
+  }
+}
